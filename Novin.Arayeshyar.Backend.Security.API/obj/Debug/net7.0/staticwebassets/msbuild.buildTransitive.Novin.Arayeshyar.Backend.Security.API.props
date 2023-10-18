@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Novin.Arayeshyar.Backend.Security.API.props" />
+</Project>
